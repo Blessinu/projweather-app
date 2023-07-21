@@ -1,0 +1,6 @@
+.app.html {
+    max-width: 600px
+    margin: 30px; auto;
+    padding: 20px;
+    border-radius: 5px;
+}
